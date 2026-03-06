@@ -16,7 +16,7 @@ AI-powered application for detecting dust accumulation on solar panels and provi
 ```bash
 pip install -r requirements.txt
 ```
-### 2. Add Groq API key
+### 2. Add Groq API key
 Open your terminal in the project root and use **Vim** to create the file:
 ```bash
 vim .env
