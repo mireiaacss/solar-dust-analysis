@@ -25,6 +25,7 @@ vim .env
 2. Type the following: GROQ_API_KEY=your_actual_groq_api_key_here
 3. Press *Esc* to exit **Insert Mode**
 4. Type *:wq* to Write and Quit
+
 => You can check if the file was created correctly by running:
 ```bash
 cat .env
